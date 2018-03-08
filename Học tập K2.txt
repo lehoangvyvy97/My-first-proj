@@ -1,0 +1,8 @@
+﻿(1) site Hội nghị khoa học - Vận hành phát triển
+26/02/2016 - hoàn thành trong 5 tuần.
+(2) Web bán hàng thời trang - Phân tích thiết kế hệ thống
+Báo cáo hàng tuần.
+(3) App quản lý tài chính cá nhân - Công nghệ phần mềm chuyên sâu
+Báo cáo hàng tuần.
+(4) Web thiết kế, in và bán áo thể thao, áo BTC chương trình - Thương mại điện tử.
+Làm web xong giữa kì.
